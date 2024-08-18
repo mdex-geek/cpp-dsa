@@ -20,7 +20,6 @@ using namespace std;
 
 
 int main(){
-    int arr[5] = {1,3,4,9};
-    cout<<arr[5]<<endl;
+    int arr[5] = {1,3,4,9};  
     
 }
